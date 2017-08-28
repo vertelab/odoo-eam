@@ -5,6 +5,7 @@
         <!-- Top menu item -->
         <menuitem name="Maintenance"
             id="base.menu_mro_root"
+	    web_icon="asset,static/description/icon.png"
             sequence="80"/>
 
         <!-- Asset menu -->
